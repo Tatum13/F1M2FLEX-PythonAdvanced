@@ -1,1 +1,1 @@
-..
+Hier komt alles van Python Advanced in te staan..
